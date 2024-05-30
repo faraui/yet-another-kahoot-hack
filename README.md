@@ -8,7 +8,7 @@
   - Pipenv ([installation guide](https://docs.pipenv.org/install/#installing-pipenv))
 
 ## Installation
-  ```
+  ```sh
     git clone https://github.com/faraui/yet-another-kahoot-hack.git
     cd yet-another-kahoot-hack
     pipenv shell
@@ -16,6 +16,6 @@
   ```
 
 ## Usage
-  ```
+  ```sh
     pipenv shell && python3 main.py
   ```
