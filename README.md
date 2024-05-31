@@ -8,14 +8,14 @@ The project is abandoned for more than 2 years and there is no intentions of res
 - Pipenv ([installation guide](https://docs.pipenv.org/install/#installing-pipenv))
 
 ## Installation
-```sh
+```bash
 git clone https://github.com/faraui/yet-another-kahoot-hack.git
 cd yet-another-kahoot-hack
 pipenv shell
 pipenv install --verbose
 ```
 
-## Usage
-```sh
+## Launch
+```bash
 pipenv shell && python3 main.py
 ```
